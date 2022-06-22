@@ -9,3 +9,6 @@ Dvdrental.sql above is the answer to the following questions:
 6. Which country is the most profitable for the business?
 7. What is the average rental rate per movie genre (rating)?
 
+#6(a)search without looking at the amount of profit in the country<br/>
+#6(b)search by looking at the amount of profit in the country
+
