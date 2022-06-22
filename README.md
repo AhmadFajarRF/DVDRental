@@ -1,5 +1,5 @@
 # DVDRental
-You can get the dataset here https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip <br\>
+You can get the dataset here https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip <br/>
 Dvdrental.sql above is the answer to the following questions:
 1. Identify the top 10 customers and their email so we can reward them
 2. Identify the bottom 10 customers and their emails
